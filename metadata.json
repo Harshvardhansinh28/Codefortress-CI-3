@@ -1,0 +1,7 @@
+{
+  "name": "CodeFortress CI",
+  "description": "An autonomous, risk-adaptive, and self-healing secure CI/CD platform that leverages AI for real-time threat intelligence, exploit path visualization, and automated remediation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
